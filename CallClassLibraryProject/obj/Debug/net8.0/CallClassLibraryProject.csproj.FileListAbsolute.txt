@@ -1,0 +1,15 @@
+D:\GitHub-Repository\Call-methods-from-the-Class-Library\CallClassLibraryProject\bin\Debug\net8.0\CallClassLibraryProject.exe
+D:\GitHub-Repository\Call-methods-from-the-Class-Library\CallClassLibraryProject\bin\Debug\net8.0\CallClassLibraryProject.deps.json
+D:\GitHub-Repository\Call-methods-from-the-Class-Library\CallClassLibraryProject\bin\Debug\net8.0\CallClassLibraryProject.runtimeconfig.json
+D:\GitHub-Repository\Call-methods-from-the-Class-Library\CallClassLibraryProject\bin\Debug\net8.0\CallClassLibraryProject.dll
+D:\GitHub-Repository\Call-methods-from-the-Class-Library\CallClassLibraryProject\bin\Debug\net8.0\CallClassLibraryProject.pdb
+D:\GitHub-Repository\Call-methods-from-the-Class-Library\CallClassLibraryProject\obj\Debug\net8.0\CallClassLibraryProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub-Repository\Call-methods-from-the-Class-Library\CallClassLibraryProject\obj\Debug\net8.0\CallClassLibraryProject.AssemblyInfoInputs.cache
+D:\GitHub-Repository\Call-methods-from-the-Class-Library\CallClassLibraryProject\obj\Debug\net8.0\CallClassLibraryProject.AssemblyInfo.cs
+D:\GitHub-Repository\Call-methods-from-the-Class-Library\CallClassLibraryProject\obj\Debug\net8.0\CallClassLibraryProject.csproj.CoreCompileInputs.cache
+D:\GitHub-Repository\Call-methods-from-the-Class-Library\CallClassLibraryProject\obj\Debug\net8.0\CallClassLibraryProject.sourcelink.json
+D:\GitHub-Repository\Call-methods-from-the-Class-Library\CallClassLibraryProject\obj\Debug\net8.0\CallClassLibraryProject.dll
+D:\GitHub-Repository\Call-methods-from-the-Class-Library\CallClassLibraryProject\obj\Debug\net8.0\refint\CallClassLibraryProject.dll
+D:\GitHub-Repository\Call-methods-from-the-Class-Library\CallClassLibraryProject\obj\Debug\net8.0\CallClassLibraryProject.pdb
+D:\GitHub-Repository\Call-methods-from-the-Class-Library\CallClassLibraryProject\obj\Debug\net8.0\CallClassLibraryProject.genruntimeconfig.cache
+D:\GitHub-Repository\Call-methods-from-the-Class-Library\CallClassLibraryProject\obj\Debug\net8.0\ref\CallClassLibraryProject.dll
